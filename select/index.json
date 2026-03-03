@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "アルティメット☆MAGIC",
+  "base_artist": "i☆Ris",
+  "createdAt": "2026-03-03T08:27:07.963212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルティメット☆MAGIC - TV ver.",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/01_アルティメット☆MAGIC_-_TV_ver._i☆Ris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルティメット☆MAGIC",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/02_アルティメット☆MAGIC_i☆Ris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アルティメット☆MAGIC -TV ver.-",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/03_アルティメット☆MAGIC_-TV_ver.-_i☆Ris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アルティメット☆MAGIC (Instrumental)",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/04_アルティメット☆MAGIC_(Instrumental)_i☆Ris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アルティメット☆MAGIC -Full Energy!! Ver.-",
+      "artist": "i☆Ris",
+      "has_synced": true,
+      "path": "select/05_アルティメット☆MAGIC_-Full_Energy!!_Ver.-_i☆Ris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルティメット☆MAGIC",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/pl_01_アルティメット☆MAGIC_i☆Ris.txt"
+    }
+  ]
+}
